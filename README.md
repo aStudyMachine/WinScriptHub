@@ -1,2 +1,2 @@
 # WinScriptHub
-自用常用 Window 脚本  集合
+自用 Windows 脚本集
